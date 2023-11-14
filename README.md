@@ -353,3 +353,4 @@ Scripts based on this project.
 ---
 
 Copyright (c) 2015 William Melody • hi@williammelody.com
+Copyright (c) 2023 Jon Glueckstein • jglueckstein@gmail.com
